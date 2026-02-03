@@ -8,5 +8,6 @@ A repository dedicated to solving LeetCode problems daily to improve my algorith
 | :--- | :---: | :--- | :---: | :---: |
 | 03/02/26 | 1089 | [Duplicate Zeros](https://leetcode.com) | Easy | [Java](./day1/solution.java) |
 
+
 ---
 **Total Solved:** 1
