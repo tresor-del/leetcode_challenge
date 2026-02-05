@@ -4,10 +4,11 @@ A repository dedicated to solving LeetCode problems daily to improve my algorith
 
 ## 📊 Progress Tracker
 
-| Date | # | Problem Title | Difficulty | Solution |
-| :--- | :---: | :--- | :---: | :---: |
-| 03/02/26 | 1089 | [Duplicate Zeros](https://leetcode.com) | Easy | [Java](./day1/solution.java) |
+| Date | Problem Title | Difficulty | Solution |
+| :--- | :--- | :---: | :---: |
+| 03/02/26 | [Duplicate Zeros](https://leetcode.com) | Easy | [Java](./day1/solution.java) |
+| 05/02/26 | [Consecutive Ones](https://leetcode.com) | Easy | [Java](./day2/Solution.java) |
 
 
 ---
-**Total Solved:** 1
+**Total Solved:** 2
