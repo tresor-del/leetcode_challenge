@@ -1,3 +1,4 @@
+package duplicate_zeros;
 class Solution {
     
     public void duplicateZeros(int[] arr) {
