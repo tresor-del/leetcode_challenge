@@ -1,4 +1,3 @@
-package max_consecutives_ones;
 public class Solution {
     public int findMaxConsecutiveOnes(int[] nums) {
 

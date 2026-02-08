@@ -1,14 +1,12 @@
 # LeetCode Challenge
 
-A repository dedicated to solving LeetCode problems daily to improve my algorithmic skills.
+A repository dedicated to solving LeetCode problems to improve my algorithmic skills.
 
-## 📊 Progress Tracker
+## Topics:
 
-| Date | Problem Title | Difficulty | Solution |
-| :--- | :--- | :---: | :---: |
-| 03/02/26 | [Duplicate Zeros](https://leetcode.com) | Easy | [Java](./duplicate_zeros/) |
-| 05/02/26 | [Consecutive Ones](https://leetcode.com) | Easy | [Java](./max_consecutives_ones/) |
-| 06/02/26 | [Even Number Digits ](https://leetcode.com) | Easy | [Java](./even_number_digits/) |
+### 1 - Data Structure Introduction: Array 101 course
 
----
-**Total Solved:** 3
+- [Max Consecutive Ones](./src/data-structure/array-101-course-problems/88-max-consecutives-ones/)
+- [Square Of Sorted Array](./src/data-structure/array-101-course-problems/977-square-of-sorted-array/)
+- [Duplicate Zeros](./src/data-structure/array-101-course-problems/1089-duplicate-zeros/)
+- [Find Numbers with Even Number of Digits](./src/data-structure/array-101-course-problems/1295-find-numbers-with-even-number-of-digits/)

@@ -1,5 +1,3 @@
-package even_number_digits;
-
 public class Solution {
     public int findNumbers(int[] nums) {
         
