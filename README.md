@@ -13,3 +13,4 @@ A repository dedicated to solving LeetCode problems to improve my algorithmic sk
 - [Merge Sorted Array](./src/data-structure/array-101-course-problems/88-merge-sorted-array/)
 - [Remove Element](./src/data-structure/array-101-course-problems/27-remove-element/)
 - [Remove Duplicates From Sorted Array](./src/data-structure/array-101-course-problems/remove-duplictes-from-sorted-array/)
+- [Check If N and Its Double Exists](./src/data-structure/array-101-course-problems/1346-check-if-n-and-its-double-exists/)
